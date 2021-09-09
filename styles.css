@@ -1,0 +1,32 @@
+.project {
+   border: 1px solid white ; 
+   padding: 1px;
+}
+.containerone {
+  width: 100%; 
+  background-color: rgb(199, 199, 199); 
+}
+.skills {
+  text-align: right; 
+  padding-right: 5em;
+  color: white; 
+}
+.html {
+    width: 80%; 
+    background-color: #0ec884; 
+    font-weight: bold;
+} 
+.css {
+    width: 75%; 
+    background-color: #4da9f5; 
+    font-weight: bold;
+} 
+.js {
+    width: 65%; 
+    background-color: #585858; 
+    font-weight: bold;} 
+.lkcl {
+  color: gray;
+}
+
+
