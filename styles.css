@@ -9,9 +9,19 @@
   width: 100%; 
   background-color: rgb(199, 199, 199); 
 }
-.skills {
-  text-align: right; 
-  padding-right: 5em;
+.skillsone {
+  text-align: left; 
+  padding-left: 11.5em;
+  color: white; 
+}
+.skillstwo{
+  text-align: left; 
+  padding-left: 10.5em;
+  color: white; 
+}
+.skillsthree {
+  text-align: left; 
+  padding-left: 9.5em;
   color: white; 
 }
 .html {
@@ -62,4 +72,24 @@
 .follow {
   margin-left: 60em;
 }
+
+@media (max-width: 400px){
+  .skillsone {
+    text-align: left; 
+    padding-left: 5.5em;
+    width: 100%;
+    color: white; 
+  }
+  .skillstwo{
+    text-align: left; 
+    padding-left: 5em;
+    color: white; 
+  }
+  .skillsthree {
+    text-align: left; 
+    padding-left: 4em;
+    color: white; 
+  }
+}
+
 
