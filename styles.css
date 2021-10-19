@@ -72,11 +72,6 @@
 .follow {
   margin-left: 60em;
 }
-.solo {
-  height: 9.7em;
-  width: 20em;
-}
-
 
 @media (max-width: 400px){
   .skillsone {
